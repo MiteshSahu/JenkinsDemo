@@ -4,7 +4,7 @@ public class Calculator
 {
 	public static void main(String arr[])
 	{
-		System.out.println("Hello");
+		System.out.println("Hello world");
 	}
 	public int add(int a,int b)
 	{
